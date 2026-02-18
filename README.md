@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Thanks for dropping by. I work at [Veeam](https://www.veeam.com/) as a Solutions Architect on the Product Management Alliances team. For more Veeam related projects and repos, check out [VeeamHub](https://github.com/veeamhub), Veeam’s curated collection of projects on GitHub.
+Thanks for dropping by. I work at [Rubrik](https://www.rubrik.com/) as a Senior Cloud Transformation Solutions Architect. More to come soon.
